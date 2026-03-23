@@ -1,0 +1,43 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yml
+    gateway:
+      routes:
+        - id: auth-service
+          uri: lb://auth-service
+          predicates:
+            - Path=/api/auth/**
+        - id: user-service
+          uri: lb://user-service
+          predicates:
+            - Path=/api/user/**
+        - id: recommend-service
+          uri: lb://recommend-service
+          predicates:
+            - Path=/api/recommend/**
+        - id: risk-service
+          uri: lb://risk-service
+          predicates:
+            - Path=/api/risk/**
+        - id: data-service
+          uri: lb://data-service
+          predicates:
+            - Path=/api/data/**
+        - id: security-service
+          uri: lb://security-service
+          predicates:
+            - Path=/api/security/**
+        - id: system-service
+          uri: lb://system-service
+          predicates:
+            - Path=/api/system/**

@@ -1,0 +1,8 @@
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/service/impl/UserBehaviorServiceImpl.java
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/entity/User.java
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/controller/UserController.java
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/entity/UserBehavior.java
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/service/impl/UserServiceImpl.java
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/UserServiceApplication.java
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/service/UserService.java
+/home/youkiee/毕设/backend/BigDataEcommercePlatform_Backend/user-service/src/main/java/com/bigdata/ecommerce/user/service/UserBehaviorService.java

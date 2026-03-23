@@ -1,0 +1,6 @@
+com/bigdata/ecommerce/risk/controller/RiskController.class
+com/bigdata/ecommerce/risk/service/RiskService.class
+com/bigdata/ecommerce/risk/controller/RiskController$RiskRequest.class
+com/bigdata/ecommerce/risk/RiskServiceApplication.class
+com/bigdata/ecommerce/risk/service/impl/RiskServiceImpl.class
+com/bigdata/ecommerce/risk/controller/RiskController$CaseRequest.class

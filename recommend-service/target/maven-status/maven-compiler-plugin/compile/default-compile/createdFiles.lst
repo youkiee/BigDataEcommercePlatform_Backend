@@ -1,0 +1,6 @@
+com/bigdata/ecommerce/recommend/service/RecommendService.class
+com/bigdata/ecommerce/recommend/controller/RecommendController.class
+com/bigdata/ecommerce/recommend/RecommendServiceApplication.class
+com/bigdata/ecommerce/recommend/controller/RecommendController$FeedbackRequest.class
+com/bigdata/ecommerce/recommend/controller/RecommendController$StrategyRequest.class
+com/bigdata/ecommerce/recommend/service/impl/RecommendServiceImpl.class

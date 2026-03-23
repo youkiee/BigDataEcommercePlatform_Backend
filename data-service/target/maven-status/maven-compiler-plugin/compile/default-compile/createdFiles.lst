@@ -1,0 +1,8 @@
+com/bigdata/ecommerce/data/controller/DataController.class
+com/bigdata/ecommerce/data/DataServiceApplication.class
+com/bigdata/ecommerce/data/controller/DataController$IngestRequest.class
+com/bigdata/ecommerce/data/controller/DataController$QueryRequest.class
+com/bigdata/ecommerce/data/controller/DataController$AnalyzeRequest.class
+com/bigdata/ecommerce/data/controller/DataController$ExportRequest.class
+com/bigdata/ecommerce/data/service/impl/DataServiceImpl.class
+com/bigdata/ecommerce/data/service/DataService.class

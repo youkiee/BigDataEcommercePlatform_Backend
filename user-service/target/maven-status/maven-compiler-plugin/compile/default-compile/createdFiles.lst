@@ -1,0 +1,8 @@
+com/bigdata/ecommerce/user/controller/UserController.class
+com/bigdata/ecommerce/user/service/impl/UserBehaviorServiceImpl.class
+com/bigdata/ecommerce/user/service/UserService.class
+com/bigdata/ecommerce/user/entity/User.class
+com/bigdata/ecommerce/user/entity/UserBehavior.class
+com/bigdata/ecommerce/user/UserServiceApplication.class
+com/bigdata/ecommerce/user/service/impl/UserServiceImpl.class
+com/bigdata/ecommerce/user/service/UserBehaviorService.class
